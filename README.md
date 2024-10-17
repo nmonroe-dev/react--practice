@@ -28,14 +28,10 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/todo-dashboard.git
+   git clone https://github.com/nmonroe-dev/react--practice.git
    ```
 
 2. Navigate into the project directory:
-
-   ```bash
-   cd todo-dashboard
-   ```
 
 3. Install dependencies for both the server and the client:
 
@@ -71,10 +67,6 @@ To run this project locally, follow these steps:
    cd ../client
    npm run start
    ```
-
-7. The application will be running locally on:
-   - Frontend: [http://localhost:3000](http://localhost:3000)
-   - Backend: [http://localhost:3001](http://localhost:3001)
 
 ## API Endpoints
 
